@@ -28,7 +28,7 @@
 ## 🏆 Awards
 🎖️ KNU AICOSS 자유공모프로젝트 우수상 (2025.02)
 
-🎖️ KCC2025 학부생/주니어논문경진대회 장려상 (2025.07)
+🎖️ KCC2025 학부생/주니어논문경진대회 장려상 (2025.07) [🔗](https://github.com/jiiihwan/k8s-dashboard)
 
 ---
 ## 🗝️ Algorithm
